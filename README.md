@@ -17,3 +17,4 @@
 
 Felipe Souza. 22/12/2020
 
+![previa](https://github.com/SoUuzaaa/AmazingGraph/blob/master/assets/previa.gif)
