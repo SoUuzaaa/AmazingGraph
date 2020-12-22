@@ -1,0 +1,38 @@
+@media screen and (max-width: 1062px) {
+    .imgElement {
+        width: 450px;
+        height: 260px;
+    }
+}
+@media screen and (max-width: 770px) {
+    .content {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .about h1 {
+       font-size: 30px;
+    }
+    .about {
+        margin-left: 0px;
+    }
+    .imgElement {
+        width: 400px;
+        height: 250px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    header nav a {
+        display: none;
+    }
+    header .lineElement {
+        display: block;
+        font-size: 25px;
+    }
+    header .container {
+        margin-right: 0px;
+    }
+}
